@@ -1,0 +1,16 @@
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.exe
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.deps.json
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.runtimeconfig.json
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.runtimeconfig.dev.json
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.dll
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\ref\Mazapan_POO012021.dll
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\bin\Debug\net5.0\Mazapan_POO012021.pdb
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.csprojAssemblyReference.cache
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.AssemblyInfoInputs.cache
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.AssemblyInfo.cs
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.dll
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\ref\Mazapan_POO012021.dll
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.pdb
+C:\Users\50370\Desktop\Trabajos\-Alejandra-437-Mazapan_POO012021\Mazapan_POO012021\obj\Debug\net5.0\Mazapan_POO012021.genruntimeconfig.cache

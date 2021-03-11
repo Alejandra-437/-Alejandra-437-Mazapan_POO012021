@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mazapan_POO012021/1.0.0": {
+        "runtime": {
+          "Mazapan_POO012021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mazapan_POO012021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

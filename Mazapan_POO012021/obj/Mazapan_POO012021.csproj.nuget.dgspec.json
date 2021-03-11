@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alejandra Serrano\\Desktop\\POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj": {}
+    "C:\\Users\\50370\\Desktop\\Trabajos\\-Alejandra-437-Mazapan_POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alejandra Serrano\\Desktop\\POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj": {
+    "C:\\Users\\50370\\Desktop\\Trabajos\\-Alejandra-437-Mazapan_POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alejandra Serrano\\Desktop\\POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj",
+        "projectUniqueName": "C:\\Users\\50370\\Desktop\\Trabajos\\-Alejandra-437-Mazapan_POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj",
         "projectName": "Mazapan_POO012021",
-        "projectPath": "C:\\Users\\Alejandra Serrano\\Desktop\\POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj",
-        "packagesPath": "C:\\Users\\Alejandra Serrano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejandra Serrano\\Desktop\\POO012021\\Mazapan_POO012021\\obj\\",
+        "projectPath": "C:\\Users\\50370\\Desktop\\Trabajos\\-Alejandra-437-Mazapan_POO012021\\Mazapan_POO012021\\Mazapan_POO012021.csproj",
+        "packagesPath": "C:\\Users\\50370\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\50370\\Desktop\\Trabajos\\-Alejandra-437-Mazapan_POO012021\\Mazapan_POO012021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alejandra Serrano\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\50370\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
